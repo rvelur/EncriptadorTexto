@@ -1,0 +1,24 @@
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+
+textarea {
+    height: 120px;
+    font-size: 18px;
+}
+
+#resultado {
+    min-height: 100px;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border: 2px solid #ff4a4a;
+    border-radius: 5px;
+}
+
+
+@media (max-width: 768px){
+    img {
+        display: none;
+    }
+}
